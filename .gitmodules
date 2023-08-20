@@ -1,0 +1,3 @@
+[submodule "nodecg-scryfall"]
+	path = bundles/nodecg-scryfall
+	url = https://github.com/snowskeleton/nodecg-scryfall
